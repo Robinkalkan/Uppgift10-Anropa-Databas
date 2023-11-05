@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: Uppgift10, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Skolan Programmerings uppgifter\Uppgift10\Data\NorthContext.cs(52,10,52,379): warning CS1030: #warning: 'To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.'
+1>Uppgift10 -> C:\Skolan Programmerings uppgifter\Uppgift10\bin\Debug\net6.0\Uppgift10.dll
+1>Done building project "Uppgift10.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 19:31 and took 00,555 seconds ==========
